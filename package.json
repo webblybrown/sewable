@@ -1,0 +1,29 @@
+{
+  "name": "Sewable",
+  "version": "1.0.0",
+  "description": "Bootstrap based mini website. Design by Wesley Brown",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webblybrown/sewable.git"
+  },
+  "author": "Wesley Brown",
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-inject": "^4.2.0",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.1.2",
+    "gulp-util": "^3.0.8",
+    "imagemin-pngcrush": "^5.1.0",
+    "jquery": "^3.2.1",
+    "wiredep": "^4.0.0"
+  },
+}

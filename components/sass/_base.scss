@@ -1,0 +1,67 @@
+body {
+    font-size: 16px;
+    background-color: #fff;
+    color: #666;
+    font-family: "Montserrat", sans-serif;
+}
+.logo {
+    position: absolute;
+    top: 0;
+	z-index: 99;
+	padding: 0px 25px;
+}
+nav ul {
+	list-style: none;
+	li {
+		margin-bottom: 10px;
+	}
+	li a {
+		color: #fff;
+		font-size: 2rem;
+	}
+}
+.red-bar {
+	background: $red;
+	text-align: center;
+	color: #fff;
+	    padding: 20px;
+    margin-top: 50px;;
+}
+.grey-bar {
+	background: #ccc;
+	text-align: center;
+	color: #fff;
+	padding: 50px;
+}
+.dark-bar {
+	background: #333;
+	text-align: center;
+	color: #fff;
+	padding: 50px;
+}
+.menu {
+	background: #ccc;
+	padding: 25px;
+	min-height: 700px
+}
+.side {
+	padding: 25px;
+}
+.parallax {
+    /* The image used */
+    background-image: url("../images/parallax-1.jpg");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-div1 {
+	background: #000;
+	opacity: 0.5;
+	min-height: 800px;
+}

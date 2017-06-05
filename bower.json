@@ -1,0 +1,22 @@
+{
+  "name": "Gulp_Starter_Base",
+  "description": "Codebase starter for gulp.js based project using boostrap",
+  "main": "index.html",
+  "authors": [
+    "Wesley Brown"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/webblybrown/boostrap_gulp_starter_package",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
